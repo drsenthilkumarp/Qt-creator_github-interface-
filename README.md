@@ -5,3 +5,4 @@
 3. select  version control as git under project management tool.
 4. Go to tools in qt creator, select git>tools>git bash.
 5. Type git remode add <name> <url>
+6. Type git push <name>
